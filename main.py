@@ -1,3 +1,4 @@
 print("Hello World!")
-print ("Today is a great day  ")
-print ("Lalalala")
+print("Today is a great day  ")
+print("Lalalala")
+print("")

@@ -1,0 +1,10 @@
+print("Which symbol would you like to use? :)")
+s = input()
+print("     ##########     ")
+print("     # ", s,s,"  #  ")
+print("   * #   .    # *   ")
+print("     # ------ #     ")
+print("     ##########     ")
+print("         ##         ")
+print(" ################## ")
+

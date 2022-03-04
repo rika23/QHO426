@@ -1,4 +1,4 @@
-age = int(input("Enter age: "))
+Wage = int(input("Enter age: "))
 ch = int(input("Enter number of children: "))
 
 if age > 25 and ch > 0:
